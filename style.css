@@ -59,7 +59,7 @@
   font-family: "Inclusive Sans-Regular", Helvetica;
   font-weight: 400;
   color: #ffffff;
-  font-size: 16px;
+  font-size: 32px;
   text-align: center;
   letter-spacing: 0;
   line-height: normal;
@@ -113,13 +113,12 @@
   height: 954px;
 }
 
-.description .div {
+.description .rectangle-2 {
   position: absolute;
   top: 0;
   left: 0;
   width: 1440px;
   height: 96px;
-  background-color: #451b178a;
 }
 
 .description .text-wrapper {
@@ -136,7 +135,7 @@
   line-height: normal;
 }
 
-.description .text-wrapper-2 {
+.description .div {
   position: absolute;
   top: 28px;
   left: 553px;
@@ -150,7 +149,7 @@
   line-height: normal;
 }
 
-.description .text-wrapper-3 {
+.description .text-wrapper-2 {
   position: absolute;
   top: 28px;
   left: 985px;
@@ -166,8 +165,8 @@
 
 .description .p {
   position: absolute;
-  top: 326px;
-  left: 706px;
+  top: 308px;
+  left: 768px;
   width: 672px;
   font-family: "Inclusive Sans-Regular", Helvetica;
   font-weight: 400;
@@ -178,11 +177,11 @@
   line-height: normal;
 }
 
-.description .rectangle-2 {
+.description .rectangle-3 {
   position: absolute;
-  top: 80px;
-  left: 0;
-  width: 531px;
-  height: 966px;
+  top: 321px;
+  left: 47;
+  width: 553px;
+  height: 557px;
   object-fit: cover;
 }
